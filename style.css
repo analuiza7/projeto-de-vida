@@ -21,3 +21,9 @@ body {
 .titulo-principal span {
   color: var(--verde);
 }
+.botao {
+  font-family: <<CraKra Petch>>, sans-serif;
+  background-color: var(--botao-inativo);
+  color: var(--branco);
+  display:flex;
+  
