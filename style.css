@@ -18,3 +18,6 @@ body {
   backgroud-color: var(--botao-ativo);
   border-bottom: 4px solid var(--verde);
 }
+.titulo-principal span {
+  color: var(--verde);
+}
